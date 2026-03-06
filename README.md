@@ -143,6 +143,11 @@ Eg: downloads/Andaman_Nicobar_Islands/CA_Land/1_32594.kml
 python -m venv venv
 venv\Scripts\activate
 ```
+### macOS / Linux
+```bash
+python -m venv venv
+source venv/bin/activate
+```
 
 ### Install dependencies:
 ```bash
